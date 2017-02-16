@@ -1,0 +1,39 @@
+.back{
+  background-color: HoneyDew;
+}
+
+.contback{
+  background-color: #282828 !important;
+}
+
+.bar{
+  color: white !important;
+  background-color: Tan ;
+  font-weight: bold;
+}
+
+.p{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+ .b{
+    font-weight: bold;
+ }
+
+.ta{
+  text-align: center;
+}
+.pl{
+  padding-left: 450px;
+  padding-right: 450px;
+}
+
+.pd{
+    padding-bottom: 50px;
+}
+
+#back-top {
+  position: fixed;
+  bottom:20px;
+  right: 2%;
+  z-index: 100; }
